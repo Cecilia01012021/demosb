@@ -4,7 +4,6 @@ import jakarta.persistence.Column;
 import lombok.Data;
 
 @Data
-
 public class PaisDTO {
 
 	private Long id;
